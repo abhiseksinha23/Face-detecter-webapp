@@ -1,4 +1,4 @@
--Complete Project summary-
+## Complete Project summary-
 
 -Detects face from images provided to it using the URL.
 
