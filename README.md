@@ -1,9 +1,15 @@
 -Complete Project summary-
+
 -Detects face from images provided to it using the URL.
+
 -Sign in/Sign out feature.
+
 -ML Api is being used.
+
 -Frontent using Reactjs.
+
 -Backend using Nodejs.
+
 -PostgreSQL Database
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
