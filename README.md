@@ -1,3 +1,5 @@
+## It's an ML based full stack web project using React Js at frontend and NodeJs Express and postgres db. It uses ML api to detect face. Some modifications added to detect all the faces (at max 33 faces) in a picture increasing from the previous detecting only a single face in a picture.
+
 ## Complete Project summary-
 
 -Detects face from images provided to it using the URL.
